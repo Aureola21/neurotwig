@@ -1,0 +1,12 @@
+README.md
+setup.py
+neurotwig/__init__.py
+neurotwig/core.py
+neurotwig/net_struc.py
+neurotwig/train.py
+neurotwig/visualize.py
+neurotwig.egg-info/PKG-INFO
+neurotwig.egg-info/SOURCES.txt
+neurotwig.egg-info/dependency_links.txt
+neurotwig.egg-info/requires.txt
+neurotwig.egg-info/top_level.txt

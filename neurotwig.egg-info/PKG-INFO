@@ -1,0 +1,7 @@
+Metadata-Version: 2.2
+Name: neurotwig
+Version: 0.1
+Requires-Dist: graphviz
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Dynamic: requires-dist
