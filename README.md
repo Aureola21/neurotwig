@@ -44,6 +44,7 @@ neurotwig/
 ├── examples/               # Example scripts
 │   ├── basic_ops.py        # Basic math and graph visualization
 │   ├── manual_neuron.py    # Manual neuron with tanh
+│   ├── pytorch_compare.py  # Pytorch implementation
 │   └── manual_back_prop.py # Manual back propogation
 │
 ├── requirements.txt
